@@ -24,6 +24,10 @@ The bot has the following features:
 - 🏎️ Super fast; the autocatcher can even handle Incense!
 - 🔍 Pokétwo-Resistant - the autocatcher sends a random series of numbers to enhance undetectability
 
+### Fork Latest version on replit [Run this Project In Replit.in](https://replit.com/@DNPAdil/Poketwo-Catcher-By-Ninja69?v=1)
+
+
+
 ### Getting Started:
 To start up the bot on replit, go to the 'Secrets' tab on replit (the lock icon) and in the 'key' area, write `user_token`, and then type in your discord account token in the 'value' section. <br>
 
